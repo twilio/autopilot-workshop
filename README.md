@@ -9,5 +9,5 @@ To do this workshop, you'll need:
 Everything else you need is in the PDF file. 
 
 Additional resources:
-1. twilio.com/docs/autopilot
+1. https://www.twilio.com/docs/autopilot
 2. https://www.twilio.com/docs/autopilot/guides/how-to-build-a-chatbot
